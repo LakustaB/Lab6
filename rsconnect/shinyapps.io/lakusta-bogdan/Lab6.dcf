@@ -1,0 +1,12 @@
+name: Lab6
+title: Lab6
+username:
+account: lakusta-bogdan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 235993
+bundleId: 1077810
+url: https://lakusta-bogdan.shinyapps.io/Lab6/
+when: 1510790950.51103
+asMultiple: FALSE
+asStatic: FALSE
